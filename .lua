@@ -8,8 +8,8 @@ OrionLib:MakeNotification({
 })
 
 OrionLib:MakeNotification({
-	Name = "Kuromi Sucks Dicc",
-	Content = "Did u join my discord???",
+	Name = "Bypassed by Z3",
+	Content = "skidded",
 	Image = "rbxassetid://4483345998",
 	Time = 25
 })
